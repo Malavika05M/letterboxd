@@ -39,3 +39,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+letterboxd/src/backend/.venv/api/letterboxd.db
